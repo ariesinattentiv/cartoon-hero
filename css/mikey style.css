@@ -1,5 +1,5 @@
 body{
-	background-color: #301934;
+	background-color: black;
 }
 
 h1{
@@ -12,4 +12,12 @@ p{
 
 h2{
 	color: #E5E4E2;
+}
+
+ol{
+	color: #FF2400;
+}
+
+ul{
+	color: #FF2400;
 }
